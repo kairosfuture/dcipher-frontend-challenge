@@ -40,7 +40,9 @@ Additionally, you may want to use a ui framework like material-ui or tailwindcss
 
 - React hooks
 - Fast render performance (focus on improving render performance)
+- Good modularization of components. Separate functionality of bar chart with use of react components
 - Dockerization of app
+- Unit tests with jest
 - CI build using github actions
 - Dynamic projection settings of bar chart component (ability to change projection fields like x, y, color, etc.)
 
