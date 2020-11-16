@@ -6,20 +6,21 @@ In this challenge, you will be doing data visualization.
 
 You are given a dataset to visualize. The dataset have the following fields;
 
-- AB: Abstract of the articles
-- tokens: The tokens of AB field
+- AB: Abstract of the article
+- PY: The published year of article
+- tokens: The token collection of AB field
 
 The full dataset can be downloaded [here](articles.json).
 
 What we ask in this assignment is to visualize this dataset by implementing a bar chart;
 
 - The bar chart should show the frequencies of all tokens in the dataset
-- In the x axis, you can show `tokens.value` field
-- In the y axis, you can show `count(tokens.id)` field
+- In the x axis, you can show the token value
+- In the y axis, you can show token frequency
 - Ability to sort bar chart data alphabetically (asc, desc)
 - Ability to sort bar chart data numerically (frequencies asc, desc)
-- A deployed app with a public url where we can test the challenge (you can use github pages)
-- Readme instructions on how to run it locally
+- Finally, add a second dimension as `PY` field where we can see year field as legend
+  - We should be able to see token frequencies per PY field
 
 As you might notice, it is required to post process this dataset because we don't provide the count data.
 
@@ -46,4 +47,6 @@ Additionally, you may want to use a ui framework like material-ui or tailwindcss
 ### Submission of challenge
 
 - Create a `private` github repository, add @aacanakin, @Atralbus, @zafercavdar to contributors to that repository.
+- A deployed app with a public url where we can test the challenge (you can use github pages)
+- Readme instructions on how to run it locally
 - Notify us by sending an email to `info@dcipheranalytics.com`
