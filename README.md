@@ -7,7 +7,6 @@ In this challenge, you will be doing data visualization.
 You are given a dataset to visualize. The dataset have the following fields;
 
 - AB: Abstract of the articles
-- PY: The year that the article is published
 - tokens: The tokens of AB field
 
 The full dataset can be downloaded [here](articles.json).
