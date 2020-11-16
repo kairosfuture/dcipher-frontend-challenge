@@ -19,7 +19,7 @@ What we ask in this assignment is to visualize this dataset by implementing a ba
 - In the y axis, you can show token frequency
 - Ability to sort bar chart data alphabetically (asc, desc)
 - Ability to sort bar chart data numerically (frequencies asc, desc)
-- Finally, add a second dimension as `PY` field where we can see year field as legend
+- Finally, add an another dimension as `PY` field where we can see year field as legend
   - We should be able to see token frequencies per PY field
 
 As you might notice, it is required to post process this dataset because we don't provide the count data.
@@ -28,10 +28,10 @@ NOTE: You can hard code the non processed data in your web app.
 
 ## Technologies to be used
 
-- React
-- D3
 - Typescript
 - `create-react-app` with typescript template
+- React
+- D3
 - Redux (optional)
 
 Additionally, you may want to use a ui framework like material-ui or tailwindcss or a ui framework of your choice.
