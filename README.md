@@ -11,7 +11,7 @@ You are given a dataset to visualize. The dataset have the following fields;
 
 The full dataset can be downloaded [here](articles.json).
 
-What we ask in this assignment is to visualize this dataset by implementing a bar chart.
+What we ask in this assignment is to visualize this dataset by implementing a bar chart;
 
 - The bar chart should show the frequencies of all tokens in the dataset
 - In the x axis, you can show `tokens.value` field
