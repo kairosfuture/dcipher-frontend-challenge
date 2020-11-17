@@ -17,8 +17,8 @@ What we ask in this assignment is to visualize this dataset by implementing a ba
 - The bar chart should be able to show the tokens along with their frequencies among the dataset
 - In the x axis, you can show the token value
 - In the y axis, you can show token frequency
-- Ability to sort bar chart data alphabetically (asc, desc)
-- Ability to sort bar chart data numerically (frequencies asc, desc)
+- Ability to sort bar chart data by token value alphabetically (asc, desc)
+- Ability to sort bar chart data by token frequency (frequencies asc, desc)
 - Ability to set the visible number of tokens of bar chart (min: 10, max: 100, default: 50)
 - Add an another dimension as `PY` field where we can see year field as legend
   - We should be able to see token frequencies per PY field
