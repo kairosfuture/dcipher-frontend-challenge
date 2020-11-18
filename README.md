@@ -20,8 +20,11 @@ What we ask in this assignment is to visualize this dataset by implementing a ba
 - Ability to sort bar chart data by token value alphabetically (asc, desc)
 - Ability to sort bar chart data by token frequency (frequencies asc, desc)
 - Ability to set the visible number of tokens of bar chart (min: 10, max: 100, default: 50)
-- Add an another dimension as `PY` field where we can see year field as legend
-  - We should be able to see token frequencies per PY field
+- Add a group using `PY` field where we can see year field as legend
+  - We should be able to see token frequencies per year
+
+The final result should look like the following;
+![Bar](bar.png)
 
 As you might notice, it is required to post process this dataset because we don't provide the count data.
 
