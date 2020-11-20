@@ -45,7 +45,7 @@ Additionally, you may want to use a UI framework like material-ui or tailwindcss
 ## Good to have (but not required)
 
 - React hooks
-- Fast render performance (especially focus on improving render performance)
+- Fast render performance (especially focus on improving rendering performance)
 - Good modularization of components. Separate functionality of bar chart with use of react components
 - Dockerization of app
 - Unit tests with jest
