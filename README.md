@@ -57,4 +57,4 @@ Additionally, you may want to use a UI framework like material-ui or tailwindcss
 1. Create a `private` github repository, add @aacanakin, @Atralbus, @zafercavdar to contributors to that repository.
 2. Deploy your app so that it's accesible via a public URL to test the solution to the challenge (Github pages are suggested.)
 3. Include a README file with instructions on how to run it locally.
-4. Notify us by sending an email to `info@dcipheranalytics.com`
+4. Notify us by sending an email to `dev@dcipheranalytics.com`
